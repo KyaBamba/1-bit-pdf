@@ -17,7 +17,7 @@ Das Tool basiert auf:
 - **Numpy** (Mathematische Berechnungen für Otsu)
 
 ## 🚀 Installation & Start
+tbd
 
-1. Repository klonen:
-   ```bash
-   git clone [https://github.com/DEIN_USERNAME/1-bit-pdf.git](https://github.com/DEIN_USERNAME/1-bit-pdf.git)
+## 🤖 Disclaimer
+> Dieses Projekt wurde mit Hilfe von KI erstellt.
