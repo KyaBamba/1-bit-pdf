@@ -3,6 +3,12 @@
 Ein schlankes Web-Tool, um große PDF-Scans in extrem kompakte Schwarz-Weiß-PDFs (1-Bit) zu konvertieren.
 Ideal, um Speicherplatz zu sparen und die Lesbarkeit von Dokumenten zu erhöhen.
 
+Dark Mode
+![1-Bit-PDF Preview](./assets/1-bit-pdf_dark.png)
+
+Light Mode
+![1-Bit-PDF Preview](./assets/1-bit-pdf_light.png)
+
 ## ✨ Features
 - **Echtes 1-Bit Schwarz-Weiß:** Nutzt TIFF Group-4-Kompression innerhalb des PDFs.
 - **Intelligente Binarisierung:** Wahlweise manueller Schwellwert oder automatischer **Otsu-Algorithmus**.
