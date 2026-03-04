@@ -49,7 +49,6 @@ Wichtig: `index.html` **muss** im Unterordner `/templates` liegen.
 ├── app.py
 ├── Dockerfile
 ├── requirements.txt
-├── docker-compose.yml
 └── templates/
     └── index.html 
 ```
