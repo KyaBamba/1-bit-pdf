@@ -32,7 +32,7 @@ Füge dem Stack folgenden Inhalt hinzu:
 
 ```text
 services:
-  pdf-1bit:
+  1-bit-pdf:
     build: .
     container_name: 1-bit-pdf
     ports:
